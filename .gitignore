@@ -1,3 +1,5 @@
 
 *.zip
 Capstone_1/Data/train.csv
+Capstone_1/Data/cleaned_train_data.pkl
+Capstone_1/Data/slimmed_subset_df.pkl
