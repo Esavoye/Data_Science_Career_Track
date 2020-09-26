@@ -3,3 +3,7 @@
 Capstone_1/Data/train.csv
 Capstone_1/Data/cleaned_train_data.pkl
 Capstone_1/Data/slimmed_subset_df.pkl
+Capstone_2/Data/item_metadata.csv
+Capstone_2/Data/test.csv
+Capstone_2/Data/train.csv
+Capstone_2/Data/submission_popular.csv
